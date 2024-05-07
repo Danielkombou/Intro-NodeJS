@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "User.js",
+  "type": "module",
+  "bin": {
+    "note": "./User.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exif-parser": "^0.1.12",
+    "yargs": "^17.7.2"
+  }
+}
